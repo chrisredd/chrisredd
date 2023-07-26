@@ -16,7 +16,7 @@ const Home = () => {
     items-center justify-center h-full px-4 md:flex-row'>
       <div className='flex flex-col justify-center h-full'>
         <h2 className='text-4xl sm:text-7xl font-bold text-white'>
-          I'm a mobile app engineer        
+          I'm a mobile app developer        
         </h2>
            <p className='text-gray-500 py-4 max-w-md '>
           I'm a software engineer from San Francisco. I received my B.A. in Computer Science from the Univerity of San Diego and am dediacted to working on technology that influnces culture 
