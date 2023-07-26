@@ -11,7 +11,7 @@ const Portfolio = () => {
     /*{
       id: 1,
       src: arrayDestruct,
-    },
+    },*/
     {
       id: 2,
       src: reactParallax,
@@ -31,7 +31,7 @@ const Portfolio = () => {
     {
       id: 6,
       src: reactWeather,
-  },*/
+  },
   ];
 
   return (
