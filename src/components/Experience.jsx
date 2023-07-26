@@ -5,9 +5,10 @@ import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
 import nextjs from "../assets/nextjs.png";
+import graphql from "../assets/graphql.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
-import python from "../assets/python-logo.png"
+
 const Experience = () => {
     const techs = [
       {
@@ -54,8 +55,8 @@ const Experience = () => {
       },
       {
         id: 8,
-        src: python,
-        title: "Python",
+        src: graphql,
+        title: "Graph ql",
         style: "shadow-blue-400",
       },
     ];
