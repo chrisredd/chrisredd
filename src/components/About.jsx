@@ -29,8 +29,7 @@ const About = () => {
             <p className='text-xl'>
                 My goals of becoming a software engineer led me to complete a Bachelor's of Art's in Computer Science from the Univerty of San Diego (USD). 
                 At USD I gained my leadership experience through leading a Senior Design Team, serving as Vice President to the Black Student Union, and being a board member for the National Society of Black Engineers (USD) chapter. 
-                Additionally I was able to parlay my leadership and technical skillset into opportunities at N.A.S.A. and I am always looking for new professional opportunities to help me grow. 
-
+                
             </p>
             <div/>
         </div>
