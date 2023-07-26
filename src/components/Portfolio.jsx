@@ -8,7 +8,7 @@ import reactWeather from "../assets/portfolio/reactWeather.jpg";
 
 const Portfolio = () => {
   const portfolios = [
-    {
+    /*{
       id: 1,
       src: arrayDestruct,
     },
@@ -31,7 +31,7 @@ const Portfolio = () => {
     {
       id: 6,
       src: reactWeather,
-  },
+  },*/
   ];
 
   return (
