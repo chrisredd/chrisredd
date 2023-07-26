@@ -15,7 +15,7 @@ const About = () => {
                 border-gray-500'
                 > About</p>
             </div>
-            <p className="text-xl mt-20">
+            <p className="text-xl mt-30">
             As a child of San Franciso in the 2000's I learned three things: Innovation requires failure, success is always about perspective, and technology is the key to unlocking a better world. 
             I've carried these lessons from when I was a young boy to now being a proud software engineer. 
             </p>
@@ -29,7 +29,7 @@ const About = () => {
             <p className='text-xl'>
                 My goals of becoming a software engineer led me to complete a Bachelor's of Art's in Computer Science from the Univerty of San Diego (USD). 
                 At USD I gained my leadership experience through leading a Senior Design Team, serving as Vice President to the Black Student Union, and being a board member for the National Society of Black Engineers (USD) chapter. 
-                
+                 
             </p>
             <div/>
         </div>
