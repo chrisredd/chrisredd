@@ -24,9 +24,6 @@ const Portfolio = () => {
       src: reactSmooth,
     },
     {
-      
-    },
-    {
       id: 6,
       src: reactWeather,
   },
