@@ -14,7 +14,15 @@ const Portfolio = () => {
     {
       id: 6,
       src: reactWeather,
-  },
+    },
+    {
+      id: 4,
+      src: reactSmooth,
+    },
+    {
+      id: 4,
+      src: reactSmooth,
+    },
   ];
 
   return (
