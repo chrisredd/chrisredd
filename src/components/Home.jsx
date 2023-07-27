@@ -19,7 +19,7 @@ const Home = () => {
           I'm a mobile app developer        
         </h2>
            <p className='text-gray-500 py-4 max-w-md '>
-          I'm a software engineer from San Francisco. I received my B.A. in Computer Science from the Univerity of San Diego and am dediacted to working on technology that influnces culture 
+          I'm a software engineer from San Francisco. I received my B.A. in Computer Science from the Univerity of San Diego and am dedicated to working on technology that influences culture 
           </p>
 
         <div>

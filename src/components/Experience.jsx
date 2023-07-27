@@ -5,9 +5,11 @@ import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
 import nextjs from "../assets/nextjs.png";
-import graphql from "../assets/graphql.png";
+import python from"../assets/python-logo.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
+import flutter from "../assets/flutter.png"
+import asana from "../assets/Asana.png"
 
 const Experience = () => {
     const techs = [
@@ -55,9 +57,21 @@ const Experience = () => {
       },
       {
         id: 8,
-        src: graphql,
-        title: "Graph ql",
+        src: python,
+        title: "Python",
+        style: "shadow-yellow-400",
+      },
+      {
+        id: 9,
+        src: flutter,
+        title: "Flutter",
         style: "shadow-blue-400",
+      },
+      {
+        id: 10,
+        src: asana,
+        title: "Asana",
+        style: "shadow-red-400",
       },
     ];
   
