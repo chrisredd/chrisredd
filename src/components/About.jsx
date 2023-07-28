@@ -6,18 +6,8 @@ const About = () => {
     name="About"
     className= "w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white"
     >
-        <br>
-      </br>
-      <br>
-      </br>
-      <br>
-      </br>
-      <br>
-      </br>
         <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full"
-
         >
-            
             <div
             className='pb-8'>
                 <p className='text-4xl font-bold inline border-b-4
@@ -34,11 +24,6 @@ const About = () => {
                 At my core, I am best used when I can contribute to a team but have also led teams from ideation of apps to deployment.
             </p>
             <br/>
-            <p className='text-xl'>
-                My goals of becoming a software engineer led me to complete a Bachelor's of Art's in Computer Science from the University of San Diego (USD). 
-                At USD I gained my leadership experience by leading a Senior Design Team, serving as Vice President of the Black Student Union, and being a board member for the National Society of Black Engineers (USD) chapter.
-                Additionally, I was able to parlay my leadership and technical skillset into opportunities at N.A.S.A. and am always looking for new professional opportunities.
-            </p>
             <div/>
         </div>
     </div>
