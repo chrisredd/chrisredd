@@ -2,14 +2,13 @@ import React from 'react';
 
 import html from "../assets/html.png";
 import css from "../assets/css.png";
-import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
-import nextjs from "../assets/nextjs.png";
 import python from"../assets/python-logo.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
 import flutter from "../assets/flutter.png"
 import asana from "../assets/Asana.png"
+
 
 const Experience = () => {
     const techs = [
@@ -26,12 +25,6 @@ const Experience = () => {
         style: "shadow-blue-500",
       },
       {
-        id: 3,
-        src: javascript,
-        title: "JavaScript",
-        style: "shadow-yellow-500",
-      },
-      {
         id: 4,
         src: reactImage,
         title: "React",
@@ -45,30 +38,24 @@ const Experience = () => {
       },
       {
         id: 6,
-        src: nextjs,
-        title: "Next JS",
-        style: "shadow-white",
-      },
-      {
-        id: 7,
         src: github,
         title: "GitHub",
         style: "shadow-gray-400",
       },
       {
-        id: 8,
+        id: 7,
         src: python,
         title: "Python",
         style: "shadow-yellow-400",
       },
       {
-        id: 9,
+        id: 8,
         src: flutter,
         title: "Flutter",
         style: "shadow-blue-400",
       },
       {
-        id: 10,
+        id: 9,
         src: asana,
         title: "Asana",
         style: "shadow-red-400",
@@ -80,6 +67,10 @@ const Experience = () => {
         name="experience"
         className="bg-gradient-to-b from-gray-800 to-black w-full h-screen"
       >
+        <br>
+        </br>
+        <br>
+        </br>
         <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white">
           <div>
             <p className="text-4xl font-bold border-b-4 border-gray-500 p-2 inline">
