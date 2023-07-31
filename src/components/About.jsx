@@ -24,8 +24,6 @@ const About = () => {
             I was also delighted to discover my love of mobile app development and to parlay my leadership and technical experience into opportunities at NASA and look foward to my professional step.  
             </p>
             <br/>
-            <p className='text-xl'>
-            </p>
             <div/>
         </div>
     </div>
