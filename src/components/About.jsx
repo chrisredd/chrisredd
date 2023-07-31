@@ -20,11 +20,10 @@ const About = () => {
             </p>
             <br/>
             <p className='text-xl'>
-                My experience lies mostly in mobile app development but I am always looking for ways to expand my skill set. 
-                At my core, I am best used when I can contribute to a team but have also led teams from ideation of apps to deployment.
-                My goals of becoming a software engineer led me to complete a Bachelor's of Art's in Computer Science from the University of San Diego (USD). 
-                At USD I gained my leadership experience by leading a Senior Design Team, serving as Vice President of the Black Student Union, and being a board member for the National Society of Black Engineers (USD) chapter.
-                Additionally, I was able to parlay my leadership and technical skillset into opportunities at N.A.S.A. and am always looking for new professional opportunities.
+            I went on to complete my BA in Computer Science at the University of San Diego (USD). During my undergraduate journey I was able to lead a senior design team of my own creation from ideation to deployment, serve as Vice President of the Black Student Union, and serve as board member to the National Society of Black Engineers (USD Chapter). 
+            I was delighted to discover my love of mobile app development in route to completeing my degree. 
+            I was also able to parlay my leadership and technical experience into opportunities at NASA. 
+            I am defined by my drive to expand my skill set and look forward to solving new probelms.
             </p>
             <br/>
             <p className='text-xl'>
