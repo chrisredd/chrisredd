@@ -14,6 +14,8 @@ const About = () => {
                 border-gray-500'
                 > About</p>
             </div>
+            <br>
+            </br>
             <p className="text-xl mt-30">
             As a child of San Franciso in the 2000's I learned three things: Innovation requires failure, success is always about perspective, and technology is the key to unlocking a better world. 
             I've carried these lessons from when I was a young boy to now being a proud software engineer. 
