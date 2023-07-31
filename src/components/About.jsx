@@ -20,8 +20,8 @@ const About = () => {
             </p>
             <br/>
             <p className='text-xl'>
-            I went on to complete my BA in Computer Science at the University of San Diego (USD). During my undergraduate journey I was able to lead a senior design team of my own creation from ideation to deployment, serve as Vice President of the Black Student Union, and serve as board member to the National Society of Black Engineers (USD Chapter). 
-            I was delighted to discover my love of mobile app development and to parlay my leadership and technical experience into opportunities at NASA in route to completeing my degree.  
+            I completed my BA in Computer Science at the University of San Diego (USD). During my undergraduate journey I was able to lead a senior design team of my own creation from ideation to deployment, serve as Vice President of the Black Student Union, and serve as board member to the National Society of Black Engineers (USD Chapter). 
+            I was also delighted to discover my love of mobile app development and to parlay my leadership and technical experience into opportunities at NASA and look foward to my professional step.  
             </p>
             <br/>
             <p className='text-xl'>
